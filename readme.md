@@ -9,5 +9,5 @@ Alternativly you can run all tests
 git clone https://github.com/nan-ci/js.git # download the code localy
 cd git # change working directory to the newly cloned repository
 npm test # run the test runner
-code . # open it in your code editor and start to code !
+code . # open it in your code editor and start to code and it will be then running in the browser!
 ```
